@@ -19,6 +19,6 @@ It is same work as **vi** uses `sort i` command.
 Select text which you want to sort then type **control+\`** (shortcut) or use
 `Xcode->Edit->GDS Sort Selected Area v1.0`
 
-![Screenshot](https://raw.github.com/dayitv89/SortXcodeSelection/master/screenshot.gif)
+![Screenshot](https://raw.githubusercontent.com/dayitv89/SortXcodeSelection/master/screenshot.gif)
 
 Voila.

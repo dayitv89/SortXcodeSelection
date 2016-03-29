@@ -297,6 +297,7 @@
 				A430D97A1C7632AE00414500 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
