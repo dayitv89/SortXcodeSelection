@@ -3,6 +3,9 @@ Xcode plugin for sort selected area in text area
 
 ###### Developed By [Gaurav D. Sharma](http://gauravds.blogspot.in/)
 
+## Time to say "Goodbye World"
+Please note that plugins are not supported by Xcode 8. See [#475](https://github.com/alcatraz/Alcatraz/issues/475) for more information.
+
 ## Install
 Place this plugin ~/Library/Application Support/Developer/Shared/Xcode/Plug-ins and then restart Xcode.
 
